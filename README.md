@@ -1,3 +1,6 @@
+_Note: This app is a small MVP to solve a simple need: merge PDF's. This option to merge PDF pages is usually a pay feature of free PDF reader, so this small APP solve the problem very efficiently to other alternative like using web browsers. ENJOY!_
+
+
 # PDF Desktop App (Python)
 
 Desktop application to **read**, **edit**, and **combine** PDF files using Python libraries with a graphical interface.
